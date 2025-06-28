@@ -115,6 +115,12 @@ input[type="file"]::file-selector-button:hover {
   height: 1.1em;
   width: auto;
 }
+textarea {
+  resize: vertical;
+  max-width: 100%;
+  min-width: 200px;
+  max-height: 200px;
+}
 
 
 /* Submit Button */
