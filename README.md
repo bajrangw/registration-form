@@ -1,7 +1,10 @@
 # 📝 Registration Form
 
 A clean, responsive registration form built using HTML, CSS, and JavaScript. This project includes form validation, styled elements, and a thank-you popup modal for improved user experience.
-https://bajrangw.github.io/registration-form/
+
+## 🔗 Live Demo
+
+👉 [View the live site](https://bajrangw.github.io/registration-form/)
 
 ## 🚀 Features
 - ✅ Responsive layout
