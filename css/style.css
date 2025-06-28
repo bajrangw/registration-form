@@ -189,16 +189,14 @@ a:hover {
   color: #ffffff;
 }
 
-
 footer {
-  color: #42308a;
-  background-color: #f4f4f4;
+  color: #584f96;
   text-align: center;
   padding: 0.5em 0;
   font-size: 0.9rem;
-  border-top: 1px solid #ccc;
-  margin-top: 1em;
+  margin-top: 0.5em;
 }
+
 /* Popup Overlay */
 .popup {
   position: fixed;
